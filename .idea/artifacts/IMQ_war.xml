@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="IMQ:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="IMQ-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="IMQ:war exploded" />
+    </root>
+  </artifact>
+</component>
